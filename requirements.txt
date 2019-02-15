@@ -1,0 +1,4 @@
+PyHamcrest
+fastai
+ipython
+ipykernel
